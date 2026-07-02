@@ -2,7 +2,7 @@ const contacts = [
   { icon: "✉", label: "Email", value: "youssefghiloufi@gmail.com", href: "mailto:youssefghiloufi@gmail.com" },
   { icon: "☎", label: "Téléphone", value: "07 63 87 08 87", href: "tel:+33763870887" },
   { icon: "⌂", label: "Localisation", value: "Île-de-France, France", href: null },
-  { icon: "in", label: "LinkedIn", value: "youssef-ghiloufi", href: "https://linkedin.com/in/youssef-ghiloufi" },
+  { icon: "in", label: "LinkedIn", value: "youssef-ghiloufi", href: "https://www.linkedin.com/in/youssef-ghiloufi-131aa7114/" },
 ];
 
 export default function Contact() {

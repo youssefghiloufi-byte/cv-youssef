@@ -1,5 +1,20 @@
 const experiences = [
   {
+    title: "Ingénieur QA — Test Auto & Validation",
+    company: "Sully Group",
+    period: "Mars 2026 – Juin 2026",
+    location: "Île-de-France, France",
+    context: "POC d'automatisation de tests E2E — Playwright, Cucumber (BDD) & CI/CD. Développement d'un framework de tests sur des parcours web réels avec approche BDD et intégration IA via MCP.",
+    missions: [
+      "Développement d'un framework de tests E2E en Playwright / TypeScript sur des parcours web réels",
+      "Mise en place d'une approche BDD avec Cucumber.js et scénarios Gherkin lisibles par les non-techniciens",
+      "Intégration du reporting Allure (étapes, captures, historique des exécutions)",
+      "Automatisation de la chaîne CI/CD GitHub Actions avec publication du rapport sur GitHub Pages",
+      "Intégration de l'IA via le protocole MCP pour le pilotage navigateur et l'analyse des rapports",
+    ],
+    tools: ["Playwright", "TypeScript", "Cucumber", "Gherkin", "GitHub Actions", "Allure", "MCP / IA"],
+  },
+  {
     title: "Senior Ingénieur QA — Test Auto & Validation",
     company: "Conseil national de l'Ordre des médecins (CNOM)",
     period: "Avr. 2025 – Avr. 2026",

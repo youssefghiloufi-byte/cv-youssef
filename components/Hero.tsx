@@ -144,7 +144,7 @@ export default function Hero() {
         >
           <a href="#contact" className="btn-gold">Me contacter</a>
           <a
-            href="https://linkedin.com/in/youssef-ghiloufi"
+            href="https://www.linkedin.com/in/youssef-ghiloufi-131aa7114/"
             target="_blank"
             rel="noopener noreferrer"
             className="btn-gold"
